@@ -1,2 +1,2 @@
-# guo-cheng.github.io
-R for bioinformatics
+# R for bioinformatics
+This is my R studying notebook.
